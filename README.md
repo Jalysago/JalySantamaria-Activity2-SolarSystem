@@ -1,2 +1,2 @@
 # SolarSystem
-Ejercicio número 1 de programación
+Activity 2, Taller Multimedia 2018 - II, Universidad de la Sabana, Teacher Rigoberto Sáenz @rsaenzi
